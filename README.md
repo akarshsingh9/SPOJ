@@ -6,3 +6,4 @@
 2. [PRIME1 - Prime Generator](https://www.spoj.com/problems/PRIME1/) - PRIME1.cpp [(file)](PRIME1.cpp)
 3. [ONP - Transform the Expression](https://www.spoj.com/problems/ONP/) - ONP.cpp [(file)](ONP.cpp)
 4. [ADDREV - Adding Reversed Numbers](https://www.spoj.com/problems/ADDREV/) - ADDREV.cpp [(file)](ADDREV.cpp)
+5. [FCTRL - Factorial](https://www.spoj.com/problems/FCTRL/) - FCTRL.cpp [(file)](FCTRL.cpp)
