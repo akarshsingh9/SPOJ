@@ -1,5 +1,5 @@
 # SPOJ Problems
-#### Trying to solve 250 problems
+#### Trying to solve 100 problems
 
 ## Content
 1. [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) - TEST.cpp [(file)](TEST.cpp)
