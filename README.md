@@ -9,3 +9,4 @@
 5. [FCTRL - Factorial](https://www.spoj.com/problems/FCTRL/) - FCTRL.cpp [(file)](FCTRL.cpp)
 6. [FCTRL2 - Factorial for large numbers](https://www.spoj.com/problems/FCTRL2/) - FCTRL2.cpp[(file)](FCTRL2.cpp)
 7. [NSTEPS - NSTEPS Problem](https://www.spoj.com/problems/NSTEPS/) - NSTEPS.cpp[(file)](NSTEPS.cpp)
+8. [SAMER08F - Sum of Squares](https://www.spoj.com/problems/SAMER08F/) - SAMER08F.cpp[(file)](SAMER08F.cpp)
